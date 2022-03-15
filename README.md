@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rohit6062
 - 👀 I’m interested in Coding. Programming.
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - mail at rohitranaware0096@gmail.com
 
